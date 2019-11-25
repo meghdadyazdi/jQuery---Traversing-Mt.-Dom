@@ -73,6 +73,13 @@ div{
 	padding: 20px;
 	background-color: #fff;
 }
+.card p{
+    display: none;
+}
+
+.highlight{
+background-color: pink;
+}
 
 #my_footer{
 	width:100%;
