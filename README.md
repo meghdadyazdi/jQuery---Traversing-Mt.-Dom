@@ -1,1 +1,1 @@
-# jQuery---Traversing-Mt.-Dom
+# jQuery-Traversing Mt. Dom
