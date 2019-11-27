@@ -18,9 +18,10 @@ $(document).ready(function() {
     });
 
     $("#select_btn").click(function(){
-		$('.card:not(.highlight)').hide('slow'); // add a class by first click and remove it by second click
+		$('.card:not(.highlight)').hide('slow'); 
     });
+    
      $("#all_btn").click(function(){
-		$('.card').show('slow'); // add a class by first click and remove it by second click
+		$('.card').show('slow'); 
     });
 });
